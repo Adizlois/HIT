@@ -1,0 +1,26 @@
+<PAMDataset>
+  <Subdataset name="Dust">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">9.8337943654769e-07</MDI>
+          <MDI key="STATISTICS_MEAN">5.8439822422117e-09</MDI>
+          <MDI key="STATISTICS_MINIMUM">1.3677964265228e-14</MDI>
+          <MDI key="STATISTICS_STDDEV">2.9183660070869e-08</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+  <Subdataset name="SeaSalt">
+    <PAMDataset>
+      <PAMRasterBand band="1">
+        <Metadata>
+          <MDI key="STATISTICS_MAXIMUM">9.6776995306413e-09</MDI>
+          <MDI key="STATISTICS_MEAN">2.1132915972565e-09</MDI>
+          <MDI key="STATISTICS_MINIMUM">2.6573323402834e-11</MDI>
+          <MDI key="STATISTICS_STDDEV">2.0079041903957e-09</MDI>
+        </Metadata>
+      </PAMRasterBand>
+    </PAMDataset>
+  </Subdataset>
+</PAMDataset>
